@@ -2,3 +2,4 @@
 
 こんにちは、GitHub!
 git origin/master
+git fetch
